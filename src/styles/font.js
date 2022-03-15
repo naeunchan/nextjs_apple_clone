@@ -9,5 +9,6 @@ export const font = {
         link: "#424245",
         directoryTitle: "#1d1d1f",
         directoryTitleHover: "#000",
+        href: "#06c",
     },
 };
